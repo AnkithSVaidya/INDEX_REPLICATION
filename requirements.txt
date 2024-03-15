@@ -1,2 +1,7 @@
-python-dotenv
-requests
+pandas
+numpy
+yfinance
+scipy
+cvxpy
+scikit-learn
+
